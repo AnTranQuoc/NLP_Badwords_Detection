@@ -36,7 +36,7 @@ Python = 3.9
 
 ## Data
 - ## **_Download models here !!! [MODELS](https://drive.google.com/drive/folders/16p85gSCjGhZsL0j8AR7ieuhlT5l2VQjX?usp=sharing)_**
-- ## **_Don't care about the data below; just download it here!!! [DATA-SKS](https://drive.google.com/drive/folders/1-6Lq1WDZJaZkCOjfAT0RAekx88go0si5?usp=sharing)_**
+- ## **_Don't care about the data below; just download it here!!! [DRIVE](https://drive.google.com/drive/folders/1BPkRqDTOyBQFYyLmf1bF7Q9xlbJvwFW6)_**
 
 - ### SemEval data-set
   [SemEval2019 dataset train+dev](https://github.com/cicl2018/HateEvalTeam/tree/master/Data%20Files/Data%20Files) 
@@ -62,5 +62,5 @@ The glove txt file can be downloaded [here](https://www.kaggle.com/datasets/aell
 ## **Test**
 `python inference.py --word_list ..\word_all.txt  --maxlen 50 --vocab-path ..\vocab.pkl`
 ## **Demo**
-https://github.com/bmhungqb/SKS/assets/117832185/6501fad5-abc8-45a8-ac29-2bab0242fc49
+https://www.youtube.com/watch?v=MgvF73n9D04&ab_channel=THI%E1%BB%86NTR%C6%AF%C6%A0NGH%E1%BB%92PH%C6%AF%E1%BB%9AC
 
