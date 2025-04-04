@@ -10,22 +10,16 @@
 
 
 ## BẢNG MỤC LỤC
-* [ Giảng viên hướng dẫn](#giangvien)
 * [ Thành viên nhóm](#thanhvien)
 * [ Đồ án môn học](#doan)
-## GIẢNG VIÊN HƯỚNG DẪN
-<a name="giangvien"></a>
-* TS. **Nguyễn Thị Quý**
 
 ## THÀNH VIÊN NHÓM
 <a name="thanhvien"></a>
 | STT    | MSSV          | Họ và Tên               | Email                   |
 | ------ |:-------------:| ----------------------:|-------------------------:
-| 1      | 21522110      | Bùi Mạnh Hùng          |21522110@gm.uit.edu.vn   |
-| 2      | 21522295      | Lê Trần Bảo Lợi          |21522295@gm.uit.edu.vn   |
-| 3      | 21522487      | Bùi Đình Quân         |21522487@gm.uit.edu.vn   |
-| 4      | 21522621      | Huỳnh Công Thiện          |21522621@gm.uit.edu.vn   |
-| 5      | 21522706      | Nguyễn Minh Trí           |21522706@gm.uit.edu.vn   |
+| 1      | 21522153      | Nguyễn Hữu Huy         |21522153@gm.uit.edu.vn   |
+| 2      | 21522629      | Trương Hồ Phước Thiện  |21522629@gm.uit.edu.vn   |
+| 3      | 21521815      | Trần Quốc An           |21521815@gm.uit.edu.vn   |
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
 # SKS
